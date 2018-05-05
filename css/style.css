@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header */
+header {
+    background-color:  #3C5A98;
+    min-height: 80px;
+}
+.fbheader {
+    min-height: 60px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    
+}
+.headerlogo {
+    float: left;
+    width: 25%;
+    margin-left: 25px;
+}
+.headerlogo img{
+    width: 65%;
+    height: 60px;
+    margin-top: 23px;
+}
+
+.loginform {
+ width: 40%;  
+ color: white;
+    float: right;
+  margin-top: 12px;
+    font-family: sans-serif;
+}
+
+.login_but{
+background-color: #3C5A98;
+    color: white;
+        padding: 2px 10px;
+    margin-left: 10px;
+    display: block;
+}
+
+.inputhead {
+    padding: 2px 0px;
+}
+/* body */
+
+.body{
+    background-color: #E9EBEE;
+}
+.bodywrapper{
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto;
+    font-family: sans-serif;
+    min-height: 650px;
+}
+.leftside{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+    color: #333333;
+    float:left;
+}
+.leftup {
+   overflow: hidden;
+}
+.leftupcontent{
+    
+   margin-left: 30px;
+    margin-top: 30px;
+}
+
+.leftdown{
+    overflow: hidden;
+    color: #333333;
+}
+.leftdowncontent {
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.recentlogins{
+    
+}
+.recentlogins h1{
+    font-size: 35px;
+}
+.rightside {
+    width: 42%;
+   margin-top: 25px;
+    overflow: hidden;
+    
+    float: right;
+}
+.createanew {
+    color: #333333;
+}
+.rightside h1 {
+    font-size: 35px;
+}
+.rightside h5{
+    font-size: 15px;
+}
+.signupform input{
+    padding: 3% 4%;
+    margin:10px 0;
+    border: 0.5px solid lightblue;
+    border-radius: 7px;
+    
+}
+.birthday {
+  
+}
+.birthday h3{
+    margin-top: 20px;
+    color: #333333;
+}
+.date{
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    
+}
+.date_why{
+    font-size: 10px;
+    color: blue;
+}
+.genderradio {
+    
+}
+.para {
+        margin-top: 10px;
+    margin-bottom: 10px;
+        width: 85%;
+    font-size: 15px;
+}
+.bluetext {
+    color: blue;
+}
+
+
+.signup_btn{
+     background-color: #529A53;
+    border: 0.5px solid #529A53;
+    padding: 2% 18%;
+    border-radius: 7px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-top: 5px;
+} 
+.bottomtext {
+    margin-top: 10px;
+}
+.footerwrapper {
+    width: 80%;
+    color: blue;
+    margin: 0 auto;
+}
+.footerwrapper {
+    overflow: hidden;
+}
+.language{ 
+padding: 25px 0;}
+.language ul {
+}
+.language ul li {
+   float: left;
+    list-style: none;
+}
+.language ul li a{
+     text-decoration: none;
+    padding: 10px;
+}
+.language ul li a:hover{
+    color: #333333;
+   
+}
+.options {
+ padding: 20px 0;   
+}
+.options ul{
+    
+}
+.options ul li {
+    float: left;
+    list-style: none;
+}
+.options ul li a{
+     text-decoration: none;
+    padding: 10px;
+}
+.options ul li a:hover{
+    color: #333333;
+}
+.options ul li a:visited {
+    color: #333333;
+}
+.copyright {
+    margin: 0 auto;
+    width: 80%;
+}                    
+.copyright p {
+    color: gray;
+    padding:20px 5px; 
+}
